@@ -42,6 +42,6 @@ I made this document to help anyone, who will work or connect with me, to knowin
 
 # Latest Project
 
-- <a href="https://github.com/KenjiVale/GameUTS">Project Eden</a> <b>(using Godot Engine)</b>
+- <a href="https://play.google.com/store/apps/details?id=org.godotengine.interstellarodyssey">Project Eden</a> <b>(using Godot Engine)</b>
 
 
